@@ -1,0 +1,84 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Plagiarism in Historical Texts</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34768</md:content-id>
+  <md:title>Plagiarism in Historical Texts</md:title>
+  <md:abstract>This module shows how studying plagiarism in historical texts can produce discussions on world economy and culture, as well as map global contact zones through literature.</md:abstract>
+  <md:uuid>a99b3f34-a47d-496b-8836-636dc0fd2554</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://www.elplagio.com/Plagio/ENTRADA.htm" strength="3">El Plagio Literario</link>
+      <link url="http://www.ucm.es/info/especulo/numero37/coplagio.html" strength="3">Algunas consideraciones para el estudio del plagio literario en la literatura hispánica</link>
+      <link url="http://www.writing-world.com/rights/lynch.shtml" strength="2">The Perfectly Acceptable Practice of Literary Theft: Plagiarism, Copyright, and the Eighteenth Century</link>
+      <link url="http://dialnet.unirioja.es/servlet/articulo?codigo=636231" strength="2">Plagio en las traducciones inglés-español</link>
+      <link url="http://www.filosofia.org/hem/dep/rco/0020027.htm" strength="2">La originalidad y el plagio</link>
+      <link url="http://cnx.org/content/m38221/latest/" strength="3">El plagio en textos históricos</link>
+    </link-group>
+    <link-group type="prerequisite">
+      <link url="http://hdl.handle.net/1911/9251" strength="3">Las Mujeres Españolas Portuguesas y Americanas</link>
+      <link url="http://hdl.handle.net/1911/20705" strength="3">Spanish, Portuguese, and American women</link>
+      <link url="http://hdl.handle.net/1911/21866" strength="3">Historia moral de las mujeres</link>
+      <link url="http://hdl.handle.net/1911/36248" strength="3">Savage America, Chapter II [Excerpt from: The Moral History of Women, Vol. 1, Book 4]</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1171934121034">
+      <title>Plagiarism in Historical Texts</title>
+      <para id="id1171927442406">Plagiarism has a long and complicated history. While the study of its evolution through the legal system is a field on its own, studying the appearance of plagiarism in historical texts can reveal the complicated, interconnected fabric of the early modern world, that is, transnational and transatlantic communication (books, newspapers, journals, letters, etc.), the loose idea of authorship and translation, the cosmopolitan figure, language and education, problematic international law (or lack thereof), etc. This module demonstrates how plagiarism can produce discussions on the larger world economy, law, literature, and culture. </para>
+      <para id="id1171928142512">Some interesting examples of historical plagiarism occur in <emphasis effect="italics"><link resource="http://hdl.handle.net/1911/9251">Las mujeres españolas, portuguesas y americanas </link></emphasis>(<emphasis effect="italics"><link resource="http://hdl.handle.net/1911/20705">Spanish, Portuguese, and American Women</link></emphasis>) and <emphasis effect="italics"><link resource="http://hdl.handle.net/1911/21866">Historia moral de las mujeres</link></emphasis> (<emphasis effect="italics"><link resource="http://hdl.handle.net/1911/36248">The Moral History of Women</link></emphasis>), documents found on the <link resource="http://oaap.rice.edu/">Our Americas Archive Partnership</link> (OAAP) website (a collaborative digital archive focused on the Americas). Both books were published in the 19<sup>th</sup> century and provide a description of women in the Americas.</para>
+      <para id="id1171928424082"><emphasis effect="italics">Las mujeres</emphasis> specifically focuses on, as its subtitle clearly outlines, the “character, customs, typical dress, manners, religion, beauty, defects, preoccupations, and qualities of women from each of the provinces of Spain, Portugal, and the Spanish Americas.” It contains 20 chapters, written by different authors, each dedicated to a different country or region. The plagiarism in question occurs in the chapter titled “The Woman from Ecuador,” by Nicolas Ampuero (pp. 164-167). This plagiarism is particularly interesting, since it is not a simple case of borrowed text. Rather, it is complicated by language and translation. </para>
+      <para id="eip-993"><figure id="fig1" orient="vertical"><title>Francisco José de Caldas</title><media id="Caldas" display="block" alt="Portrait of Francisco José de Caldas">
+			<image mime-type="image1/png" src="../../media/Caldas.png" print-width="1 in"/>
+		</media>
+	
+   <caption>Francisco José de Caldas, author of "Viaje de Quito a Popayan" ("Voyage from Quito to Popayan") </caption></figure>
+</para><para id="id1171927918298">Ampuero not only copied, but also translated a passage in Gaspard-Théodore Mollien’s <emphasis effect="italics">Voyage dans la République de Colombia, en 1823 </emphasis>(“Voyage in the Republic of Colombia in 1823”) from French to Spanish. This passage, however, was Mollien’s summary of Francisco José de Caldas’s travels, recorded in Caldas’ own travel narrative, “Viaje de Quito a Popayan” (“Voyage from Quito to Popayan.”), which he originally wrote in Spanish. The text, therefore, goes from Spanish (Caldas), to French (Mollien), to Spanish (Ampuero), begging the question: was Ampuero aware of Caldas’ Spanish work? An examination of Mollien’s book shows that Ampuero must have assumed the existence of another text, since Mollien specifically refers to Caldas’ travel narrative and even includes his name in the summary. Here we can see an almost exact wording, minus Caldas’ name:</para>
+      <para id="id1171930159919"><quote id="Mollien"> MOLLIEN: “After having passed Alto de la Virgen, Caldas entered Delek ”<footnote id="id1171938150352">Mollien’s French text: « Après avoir dépassé l’Alto de la Virgen, Caldas entre à Delek » (<emphasis effect="italics">Voyage </emphasis> 293).</footnote> (<emphasis effect="italics">Travels </emphasis> 446).</quote></para>
+      <para id="id1171930136622"><quote id="Ampuero">AMPUERO: “Once traversing the Alto de la Virgen, you enter Dalek”<footnote id="id1171932287779">Ampuero’s Spanish text: “Una vez pasado el Alto de la Vírgen, se entra en Dalek” (<emphasis effect="italics">Las mujeres </emphasis> 166).</footnote> (<emphasis effect="italics">Spanish, Portuguese, and American Women </emphasis> 166). </quote></para>
+      <para id="id1171928604463">Also of interest is the fact that the plagiarized text does not describe the women of Ecuador, but rather focuses on a route through the country. </para>
+      <para id="id1171933127163"><emphasis effect="italics">Historia moral</emphasis>, written by Francisco Nacente, details the role of women in society (both civilized and uncivilized) in two volumes. Prominent examples of plagiarism include the sections titled “The Toltec” (p. 433), “The Tale of Xochitl” (pp. 433-435), and “The Peruvian Indians” (pp. 437-439). </para>
+      <para id="id1171928277033">“The Toltec” and “The Tale of Xochitl” include text plagiarized from Antonio García Cubas’ <emphasis effect="italics">Escritos diversos de 1870 a 1874 </emphasis>(“Diverse writings from 1870 to 1874”). In these sections, the reader will note that Nacente omitted some of García Cubas' sentences and added a few of his own; yet, he maintains a word-for-word borrowing of the rest of the text.</para>
+      <para id="eip-688"><figure id="fig2" orient="vertical"><title>Antonio García Cubas</title><media id="GCubas" display="block" alt="Portrait of Antonio García Cubas">
+			<image mime-type="image1/png" src="../../media/GCubas.png" print-width="1 in"/>
+		</media>
+		<caption>Antonio García Cubas, author of <emphasis effect="italics">Escritos diversos de 1870 a 1874 </emphasis> ("Diverse writings from 1870 to 1874")</caption></figure>
+
+
+</para><para id="id8398223">“The Peruvian Indians,” was copied from Conrad Malte-Brun’s<emphasis effect="italics"> Précis de la géographie universelle ou description de toutes les parties du monde</emphasis> (“Universal Geography, Or a Description of All the Parts of the World.”). Once again, there is an instance of translation plagiarism, where Nacente translates Malte-Brun's original French and passes it off as his own. Although Nacente fails to cite Malte-Brun, he does include the latter’s own notes, which cite Inca Garcilaso de la Vega, Agustín Zarate, the Peruvian newspaper <emphasis effect="italics">Mercurio peruviano</emphasis> (“Peruvian Mercury”), and <emphasis effect="italics">Viajero universal </emphasis>(“Universal Traveler”).</para>
+      <para id="eip-919"><figure id="fig3" orient="vertical"><title>Conrad Malte-Brun</title><media id="Conrad" display="block" alt="Portrait of Conrad Malte-Brun">
+			<image mime-type="image1/png" src="../../media/Conrad.png" print-width="1 in"/>
+		</media>
+		<caption>Conrad Malte-Brun, author of <emphasis effect="italics"> Précis de la géographie universelle ou description de toutes les parties du monde</emphasis> ("Universal Geography, Or a Description of All the Parts of the World.")</caption></figure>
+</para><para id="id1171934645234">The type or genre of literature plagiarized is important to note, since different genres have various implications on cultural significance. These particular instances of plagiarism, for example, can prompt discussions on the importance and circulation of the travel narrative and its ability to grant access to places and cultures unknown. The implication in this case being that, perhaps the authors did not or could not travel to the regions they sought to describe. </para>
+      <para id="id1171927617295">These examples also bring in to question the matter of plagiarism in translation. Some questions include:
+<list id="eip-id1172592170017">
+<item>What does this imply about education, culture, and the circulation of literary material?</item> 
+
+<item>Why would an author choose to plagiarize a foreign-language text over literature published in his or her own country?</item> 
+<item>How does plagiarism through translation compare to same-language plagiarism throughout history?</item> 
+<item>What types of laws existed to regulate plagiarism?</item> 
+<item>How did these laws function when dealing with foreign literature?</item>
+</list> </para>
+      <para id="id1171929526990">Literature, as well as the ideas contained in texts, did not remain confined to the national borders, rather it moved fluidly across borders and languages. In addition, author’s and publisher’s rights (which varied from country to country and evolved at different rates) would have changed depending on the country and time period. Studying plagiarism can, therefore, map global contact zones linking authors and readers across the globe and even through time, simultaneously answering the question: <emphasis effect="bold">who was reading whom?</emphasis>, and asking: <emphasis effect="bold">what belonged to whom?</emphasis></para>
+      <para id="id1171929774215"><emphasis effect="bold">For further reading, see:</emphasis></para>
+      <para id="id1171925703376">Bjørnstad, Hall. <emphasis effect="italics">Borrowed Feathers: Plagiarism and the Limits of Imitation in Early Modern Europe.</emphasis> Norway: Unipub, 2008.</para>
+      <para id="id1171928142219">Kewes, Paulina (Ed.) <emphasis effect="italics">Plagiarism in Early Modern England.</emphasis> Houndmills: Palgrave MacMillan, 2003.</para>
+      <para id="eip-587">Parker, Philip M. (Ed.)<emphasis effect="italics">Plagiarism: Webster's Timeline History 1583-2007.</emphasis> San Diego, CA: ICON Group International, Inc., 2009.</para><para id="eip-815">Pabón Núñez, Lucio. <emphasis effect="italics"> Del plagio y de las influencias literarias, y otras tentativas de ensayo.</emphasis> Bogotá: Imprenta Nacional, 1965.</para><para id="id1171931747175">Randall, Marilyn. <emphasis effect="italics">Pragmatic Plagiarism: Authorship, Profit, and Power.</emphasis> Toronto: University of Toronto Press, 2001.</para><para id="eip-500">Sánchez de la Cuesta, Gabriel.<emphasis effect="italics"> Impugnación y defensa del plagio. Discurso de recepción en la Real Academia Sevillana de  Buenas Letras.</emphasis> Sevilla, 1952.</para><para id="eip-498">Visit El Plagio Literario's <emphasis effect="italics">Bibliografía</emphasis> page for a more extensive list of bibliographic resources (in a variety of languages): 
+</para><para id="eip-335"><link resource="http://www.elplagio.com/Plagio/ENTRADA.htm">http://www.elplagio.com/Plagio/ENTRADA.htm</link></para>
+    </section>
+    <section id="id1171934018117">
+      <title>Bibliography</title>
+      <para id="id1171927624271">Conrad Malte-Brun, <emphasis effect="italics">Précis de la géographie universelle ou description de toutes les parties du monde.</emphasis> Vol. 5, 2<sup>nd</sup> edition. Paris: Chez Volland le Jeune, Libratre, 1821. pp. 593-603.</para>
+      <para id="id1171936225265">Caldas, Francisco José de. “Viaje de Quito a Popayan” in <emphasis effect="italics">Obras completas de Francisco José de Caldas. </emphasis>Bogota: Universidad de Colombia, 1966. </para>
+      <para id="id1171929621690">García Cubas, Antonio. <emphasis effect="italics">Escritos diversos de 1870 a 1874.</emphasis> Mexico: Imprenta de Ignacio Escalante, 1874, pp 349-356.</para>
+      <para id="id1171928470532">García Cubas, Antonio. <emphasis effect="italics">The Republic of Mexico in 1876</emphasis>, trans. George F. Henderson. Mexico: La Enseñanza Printing Office, 1876, pp 47-51.</para>
+      <para id="id1171930077724">Mollien, Gaspard Théodore. <emphasis effect="italics">Voyage Dans la République de Colombia, en 1823.</emphasis> Vol. 2 Paris : Chez Arthus Bertrand, Librare, 1824.</para>
+      <para id="id1171927136922">Mollien, Gaspard Théodore. <emphasis effect="italics">Travels in the Republic of Colombia, in the years 1822 and 1823.</emphasis> Translation. London: C. Knight, Pall-Mall East, 1824.</para>
+    </section>
+  </content>
+</document>
