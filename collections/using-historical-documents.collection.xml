@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="AnaMaria Seglie">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11316</md:content-id>
     <md:title>Using Historical Documents</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
     <md:uuid>2fc4d77e-3dd9-4e6e-ac7f-fe5d01867f4e</md:uuid>
-<md:slug>using-historical-documents</md:slug>
-</metadata>
+    <md:slug>using-historical-documents</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m13830"/>
     <col:module document="m13831"/>
